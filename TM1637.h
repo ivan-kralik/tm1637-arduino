@@ -3,7 +3,6 @@
 
 #include <Arduino.h>
 
-// copied from <https://github.com/Seeed-Studio/Grove_4Digital_Display/blob/master/DigitalTube/TM1637.cpp>
 #define TM1637_ADDR_AUTO  0x40
 #define TM1637_ADDR_FIXED 0x44
 #define TM1637_STARTADDR  0xc0
