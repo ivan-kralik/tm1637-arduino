@@ -2,10 +2,10 @@
 
 Supports:
 
-*Displaying both positive and negative integers
-*Displaying both positive and negative decimal numbers with decimal places
-*Displaying custom segment sets
-*Brightness and on/off control
+- Displaying both positive and negative integers
+- Displaying both positive and negative decimal numbers with decimal places
+- Displaying custom segment sets
+- Brightness and on/off control
 
 For documentation see TM1637.h
 
