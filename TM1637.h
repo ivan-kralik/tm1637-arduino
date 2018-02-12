@@ -1,5 +1,5 @@
 #ifndef TM1637_H
-#define TM1637_h
+#define TM1637_H
 
 #include <Arduino.h>
 
