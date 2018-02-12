@@ -1,4 +1,4 @@
-# Arduino library for TM1637 7-segment LED display driver
+# Arduino library for TM1637 -- 7-segment LED display driver
 
 Supports:
 
